@@ -60892,7 +60892,7 @@ k=t.oq
 if(l!=null)p.b=R.al6(l,k)
 else{p.b=R.al6(J.aE(p.giX(),0),k)
 p.gxv().GQ("String","schedule_name",J.aE(p.giX(),0).a)}k=p.glM()
-P.hC("AppController:init BlindSchedule.name='"+k.gp(k).a+"'")}p.d.q5(N.at4(P.eX("https://smok95.github.io/poker-timer-web/timer_bgm.mp3",0,null),null),null,!0)
+P.hC("AppController:init BlindSchedule.name='"+k.gp(k).a+"'")}p.d.q5(N.at4(P.eX("http://localhost:8000/poker-timer-web/timer_bgm.mp3",0,null),null),null,!0)
 q=n
 s=1
 break
@@ -66816,7 +66816,7 @@ $.Wr=P.w(t.T,H.W("afd<iM>"))
 $.a1I=null
 $.amJ=null
 $.ack=null
-$.asZ="https://smok95.github.io/poker-timer-web/config.json"
+$.asZ="http://localhost:8000/poker-timer-web/config.json"
 $.afP=null
 $.ale=!0
 $.a5R=P.aC(["seedBytes",null,"node",null,"clockSeq",null,"mSecs",0,"nSecs",0,"hasInitV1",!1,"hasInitV4",!1],t.N,t.X)})();(function lazyInitializers(){var s=hunkHelpers.lazy,r=hunkHelpers.lazyFinal
