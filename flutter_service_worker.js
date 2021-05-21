@@ -3,27 +3,27 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "88f1b24d5ecfd65a9e1e99c5ac6b78bd",
-"index.html": "824e002ad05fb319c57623d15f945d88",
-"/": "824e002ad05fb319c57623d15f945d88",
-"main.dart.js": "c3c533ebe408dc3cbd5e270d417cee5a",
-"config.json": "d4f4f51323ba6c8ece1e214e4f611a37",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"timer_bgm.mp3": "476286c92ebee15d3df64db256e13234",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"manifest.json": "b4413d3f84a59895ec93d579171e0fd6",
-"assets/AssetManifest.json": "84ed3318424d5184351c9b356603d679",
-"assets/NOTICES": "e8b55143c223b4a03f958b455521339e",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
+  "assets/AssetManifest.json": "b1c6302f1dd0d69d7fee100e792db95f",
 "assets/assets/image/logo_black.png": "d6b13647061b3ed2d38e7318af156ecc",
 "assets/assets/image/logo_gold.png": "2dc939040abb105f306c584b6fc10c45",
-"assets/assets/image/logo_gold_small_nopadding.png": "1833a34a4c1a3f46c055c08db5f05c3d",
 "assets/assets/image/logo_gold_small.png": "73c718fb029e2054ff4ad85c6e167fcf",
+"assets/assets/image/logo_gold_small_nopadding.png": "1833a34a4c1a3f46c055c08db5f05c3d",
+"assets/assets/sound/bell.mp3": "c582fbf12b5503a913b26bf693f73c5f",
 "assets/assets/sound/timer_bgm.mp3": "476286c92ebee15d3df64db256e13234",
-"assets/assets/sound/bell.mp3": "c582fbf12b5503a913b26bf693f73c5f"
+"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
+"assets/NOTICES": "2701c184a8da1e8d123ddb5c6b1a37bd",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"config.json": "f7636a7fae902eef0968aba32b62bcba",
+"favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
+"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
+"index.html": "4339aaf6fc4ea214471bddd5a9036e20",
+"/": "4339aaf6fc4ea214471bddd5a9036e20",
+"main.dart.js": "28f2f0dd5f08a17e3b085d5b7e5be7e1",
+"manifest.json": "2aa37f726ac5f4e11ef3874a0b76f4e9",
+"timer_bgm.mp3": "476286c92ebee15d3df64db256e13234",
+"version.json": "88f1b24d5ecfd65a9e1e99c5ac6b78bd"
 };
 
 // The application shell files that are downloaded before a service worker can
