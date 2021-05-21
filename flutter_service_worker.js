@@ -3,12 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-<<<<<<< Updated upstream
-  "assets/AssetManifest.json": "b1c6302f1dd0d69d7fee100e792db95f",
-=======
   "version.json": "67f3fc673237fb9b71f8752cc467192e",
-"index.html": "ba41fe0c999e35a7da70f16be041095e",
-"/": "ba41fe0c999e35a7da70f16be041095e",
+"index.html": "e6d4d5454d66f515836d7bcde8cbeacc",
+"/": "e6d4d5454d66f515836d7bcde8cbeacc",
 "main.dart.js": "8c6a4a8262228fc717912504267fee7f",
 "config.json": "cda84dead33541d5858df48c43319325",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -21,27 +18,12 @@ const RESOURCES = {
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
->>>>>>> Stashed changes
 "assets/assets/image/logo_black.png": "d6b13647061b3ed2d38e7318af156ecc",
 "assets/assets/image/logo_gold.png": "2dc939040abb105f306c584b6fc10c45",
-"assets/assets/image/logo_gold_small.png": "73c718fb029e2054ff4ad85c6e167fcf",
 "assets/assets/image/logo_gold_small_nopadding.png": "1833a34a4c1a3f46c055c08db5f05c3d",
-"assets/assets/sound/bell.mp3": "c582fbf12b5503a913b26bf693f73c5f",
+"assets/assets/image/logo_gold_small.png": "73c718fb029e2054ff4ad85c6e167fcf",
 "assets/assets/sound/timer_bgm.mp3": "476286c92ebee15d3df64db256e13234",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "2701c184a8da1e8d123ddb5c6b1a37bd",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"config.json": "f7636a7fae902eef0968aba32b62bcba",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "4339aaf6fc4ea214471bddd5a9036e20",
-"/": "4339aaf6fc4ea214471bddd5a9036e20",
-"main.dart.js": "28f2f0dd5f08a17e3b085d5b7e5be7e1",
-"manifest.json": "2aa37f726ac5f4e11ef3874a0b76f4e9",
-"timer_bgm.mp3": "476286c92ebee15d3df64db256e13234",
-"version.json": "88f1b24d5ecfd65a9e1e99c5ac6b78bd"
+"assets/assets/sound/bell.mp3": "c582fbf12b5503a913b26bf693f73c5f"
 };
 
 // The application shell files that are downloaded before a service worker can
