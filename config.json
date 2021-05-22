@@ -1,8 +1,6 @@
 {
-    
-    "notice":[
-        "경"
-    ],
+    "font_family_comment":"https://fonts.google.com/ 사이트에 검색한 폰트명 대소문자 공백까지 똑같이 그대로 작성",
+    "font_family":"Monoton",
     "structures":[
         {
             "name":"STANDARD",
