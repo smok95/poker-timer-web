@@ -5,8 +5,8 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "blind_up.mp3": "b5f22608f63b81391b9a575fa275c25e",
 "version.json": "f04813c4801245fd2bf27204cf39b00a",
-"index.html": "a3b96287d79d02f68503183098e0e811",
-"/": "a3b96287d79d02f68503183098e0e811",
+"index.html": "4a240fcbb75c1b75b47010a51f01b1c6",
+"/": "4a240fcbb75c1b75b47010a51f01b1c6",
 "main.dart.js": "25cccbccd9832835a4abc642fa16045f",
 "config.json": "80b1f777a86af9353949a8b46c27bb29",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
