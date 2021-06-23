@@ -3,16 +3,18 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "203db166d8cf1497651593175c534f73",
-"index.html": "770876c1495c765189e01713a2e83717",
-"/": "770876c1495c765189e01713a2e83717",
-"main.dart.js": "c268673d45777e43eb32fe5575a9d14d",
+  "blind_up.mp3": "b5f22608f63b81391b9a575fa275c25e",
+"version.json": "f04813c4801245fd2bf27204cf39b00a",
+"index.html": "a3b96287d79d02f68503183098e0e811",
+"/": "a3b96287d79d02f68503183098e0e811",
+"main.dart.js": "25cccbccd9832835a4abc642fa16045f",
 "config.json": "80b1f777a86af9353949a8b46c27bb29",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "timer_bgm.mp3": "476286c92ebee15d3df64db256e13234",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "b4413d3f84a59895ec93d579171e0fd6",
+"game_start.mp3": "2b4106c730a1af5774cbfd325277f5d3",
 "assets/AssetManifest.json": "84ed3318424d5184351c9b356603d679",
 "assets/NOTICES": "0e6eee58b6e23f79ccac2028f503e824",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
