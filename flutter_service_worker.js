@@ -3,11 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "94cb83e11e07a8efe5925fc626630922",
-"assets/assets/image/background.jpg": "08596ea7798000847e784d04765f354c",
-"assets/assets/image/background1.jpg": "9a6604555182dca840cd91fabb41ac4d",
-"assets/assets/image/background2.jpg": "971d1a3a9daca5526010f8cdec407836",
-"assets/assets/image/background3.jpg": "153b07404f5306d531f5b5fe33e554dd",
+  "assets/AssetManifest.json": "b1c6302f1dd0d69d7fee100e792db95f",
 "assets/assets/image/logo_black.png": "d6b13647061b3ed2d38e7318af156ecc",
 "assets/assets/image/logo_gold.png": "2dc939040abb105f306c584b6fc10c45",
 "assets/assets/image/logo_gold_small.png": "73c718fb029e2054ff4ad85c6e167fcf",
@@ -25,12 +21,12 @@ const RESOURCES = {
 "game_start.mp3": "2b4106c730a1af5774cbfd325277f5d3",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "53bb600f4a16ae16560b0663334e638e",
-"/": "53bb600f4a16ae16560b0663334e638e",
-"main.dart.js": "5fa4f04be8951cf5d34942d917d7efa4",
+"index.html": "541dba5849b67ab655866b692ea7f947",
+"/": "541dba5849b67ab655866b692ea7f947",
+"main.dart.js": "93e1f14a406698792ca0e20aec7faf02",
 "manifest.json": "2aa37f726ac5f4e11ef3874a0b76f4e9",
 "timer_bgm.mp3": "476286c92ebee15d3df64db256e13234",
-"version.json": "2a2405faedecec0b4cbe1f35d8601e1a"
+"version.json": "01b04a97c99cd1ea32c532730868ce67"
 };
 
 // The application shell files that are downloaded before a service worker can
